@@ -35,6 +35,8 @@ https://docs.google.com/spreadsheets/u/0/d/1DDiEYCO0S8fr97Dlq6K7VHRa8gnohdaDskwh
 
 https://docs.google.com/spreadsheets/u/0/d/15dxxOhmocM4lc06-makV3tso9ZRI2pLmCc0f1P2XTKw/htmlview#gid=0
 
+П.А. Останин, Д. А. Терёшин, Н. Ю. Королёв Планиметрия в задачах
+
 
 К вопросу как искать, анализировать, собирать информацию и так далее и много чего ещё:
 https://github.com/LanskoyKirill/HowToLearn/edit/main/README.md
